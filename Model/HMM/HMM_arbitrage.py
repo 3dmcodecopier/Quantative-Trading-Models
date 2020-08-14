@@ -5,6 +5,7 @@ import matplotlib.dates as dates
 import pandas as pd
 import datetime
 
+
 # Set up
 beginDate = '2005-01-01'
 endDate = '2015-12-31'
